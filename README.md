@@ -30,7 +30,7 @@
 * ip ban can be handled by proxy ip rotation but will need to buy a service that offers that.
 * ip can also be flagged if your headers are not handled properly. not handled here.
 
-##conclusion. 
+## conclusion. 
 because of all the limitations. i will be creating another repository whee i'll be using an api for ip rotation. and will continue the project there. 
    
 ENJOY
