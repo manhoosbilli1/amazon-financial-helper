@@ -1,5 +1,5 @@
 # Amazon-financial-helper
-## Completed 
+- [X] Completed 
 
 ## TODO: 
 - [X] read from an excel sheet and write to an excel sheet
@@ -20,7 +20,18 @@
 1. fetches the column "asin" from any xlsx file in your computer and converts it to list. 
 2. fetches each product page from amazon based on asin 
 3. gets price and product name 
-4. create a new excel file based on new data in following format (asin, product name, product link) 
+4. create a new excel file based on new data in following format (asin, product name, product link)
 
+
+## Limitations
+* cannot solve captcha if your ip is flagged as bot
+* ip might get banned if flagged by amazon by making many requests
+* some products have surpressed prices and it's not handled. 
+* ip ban can be handled by proxy ip rotation but will need to buy a service that offers that.
+* ip can also be flagged if your headers are not handled properly. not handled here.
+
+##conclusion. 
+because of all the limitations. i will be creating another repository whee i'll be using an api for ip rotation. and will continue the project there. 
+   
 ENJOY
 
