@@ -1,7 +1,7 @@
-beautifulsoup4 @ file:///C:/b/abs_0agyz1wsr4/croot/beautifulsoup4-split_1681493048687/work
-certifi==2023.5.7
-charset-normalizer==3.1.0
-idna==3.4
-requests==2.31.0
-soupsieve @ file:///C:/b/abs_a989exj3q6/croot/soupsieve_1680518492466/work
-urllib3==2.0.3
+beautifulsoup4
+certifi
+charset-normalizer
+idna
+requests
+soupsieve
+urllib3
